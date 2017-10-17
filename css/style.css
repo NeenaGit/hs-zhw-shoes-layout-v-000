@@ -54,9 +54,9 @@ table {
 	border-left: 1px solid #ccc;
 }
 
-tr:nth-child(even) {
+/*tr:nth-child(even) {
 	background: #efefef;
-}
+}*/
 
 th, td {
 	padding: 10px;
