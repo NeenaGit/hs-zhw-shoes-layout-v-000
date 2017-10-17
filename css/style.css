@@ -109,7 +109,9 @@ iframe {
 	width: 960px;
 	margin: 0 auto;
 }
-
+.white_panel {
+	box-shadow: 0 3px 10px #333;
+}
 .shadow {
 	box-shadow: 0 3px 10px #333;
 	margin-bottom: 20px;
