@@ -125,7 +125,7 @@ iframe {
 }
 
 .border_right {
-	border-right: 1px dotted #ccc;
+	border-left: 1px dotted #ccc;
 	padding: 20px;
 	float: right;
 }
