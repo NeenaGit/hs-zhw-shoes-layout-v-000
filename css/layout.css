@@ -11,17 +11,17 @@
 
 
 /* Posititoning Classes */
-col-1{
+.col-1{
   float: left;
   width: 66%
 }
 
-col-2{
+.col-2{
   float: left;
   width: 32%;
 }
 
-col-3{
+.col-3{
   background: #fff;
 }
 
